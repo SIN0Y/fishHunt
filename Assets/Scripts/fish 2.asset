@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2206600f30381a745bd316e212c24b71, type: 3}
+  m_Name: fish 2
+  m_EditorClassIdentifier: 
+  fishName: Majili Snapper
+  icon: {fileID: 21300000, guid: 53f75fd6353d01f4f8f70efb8b540199, type: 3}
+  fishPrefab: {fileID: 5932242081595585956, guid: df2e0734f0fb5b24cb2af0efa1b54870, type: 3}
+  rarity: 0
+  difficulty: 0
+  fishScore: 20
